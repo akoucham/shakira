@@ -1,0 +1,211 @@
+{
+  "AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.spotify.music"
+  },
+  
+  
+  "AdController": {
+      
+      "README": [
+        "To run ads for each network, enter one of the following: 'admob' , 'facebook' ",
+        "⚠️Warning: Facebook does not support OpenAd."
+      ],
+      
+      "BannerNetwork"      : "admob",
+      "InterstitialNetwork": "admob",
+      "NativeNetwork"      : "admob",
+      
+      "OpenAdNetwork"      : "admob",
+      
+      "AdInterval"         : 1,
+      
+      "NativeAdRow"        : 0,
+
+      "AdPlacement": {
+        
+        "AdMobBanner"         : "",
+        "AdMobInterstitial"   : "",
+        "AdMobNative"         : "",
+        "AdMobOpenAd"         : "",
+        
+        "FacebookBanner"      : "",
+        "FacebookInterstitial": "",
+        "FacebookNative"      : ""
+
+      }
+    },
+  
+  "PopAdSetting": {
+    "showPop"  : false,
+    "showClose": false,
+    "adList": [
+      {
+        "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+        "title": "Good new ! we added new app check it !",
+        "button_title": "Install now",
+        "button_url": "https://github.com/saidmotya/"
+      }
+    ]
+  },
+  
+  "AppsPromote": [
+    {
+      "name": "Music Jul & Lyrics Offline",
+      "packageName": "com.Superstar.jul.gouss",
+      "icon": "https://play-lh.googleusercontent.com/L7dVlv3oMyV_A_ES478KlYeqTT285h7TWne6iU5hvEGpKvIjs7-v0vWD-b3xKlrtZQ=w240-h480",
+      "download": "+50K"
+    },
+    {
+      "name": "Chansons françaises Offline",
+      "packageName": "com.chansons.hitfrancaise.gouss",
+      "icon": "https://play-lh.googleusercontent.com/-wlGseLe339KFt3qhYIslvrI5t1lVh_IGH-GWfxXCv3vwqf7j3h8tXGLyxBS-mOJ2v0=w240-h480",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Maitre Gims & Lyrics Offline",
+      "packageName": "com.gimsmaitre.prendmamain.gouss",
+      "icon": "https://play-lh.googleusercontent.com/MuumknML1urAbqiefGCRfwD_W385IcU9S56nXgK_4PaC02Vw-_EffCLgYr0cBERMqts=w240-h480",
+      "download": "+100K"
+    },
+    {
+      "name": "Bob Marley & Lyrics Offline",
+      "packageName": "com.bobmarley.soulcaptives.gouss",
+      "icon": "https://play-lh.googleusercontent.com/Ctooecj4N391JGY1optF9LNkPOYOkaqQIRh36vpmFVjCyBq2IofJL4y4lqp3nhM4JXk=w240-h480",
+      "download": "+50K"
+    },
+    {
+      "name": "Michael Jackson Lyrics offline",
+      "packageName": "com.michael.jackson.gouss",
+      "icon": "https://play-lh.googleusercontent.com/BxxOxnNR1sgfTgo9cbiw6BG-MUbtkzn5ydgv3-J2obIZOVrbOCANHXJVva78IBC3WOk=w240-h480",
+      "download": "+50K"
+    },
+    {
+      "name": "Music Niska & Lyrics Offline",
+      "packageName": "com.niska.bolivienne.gouss",
+      "icon": "https://play-lh.googleusercontent.com/wvyylvWGuTTsn-dWSzdQFEPQdMx1J56JRo4-zVaVsJUNKj3VQ6o93OQZy0XQC9pnNg8=w240-h480",
+      "download": "+50k"
+    },
+    {
+      "name": "Celine Dion & Lyrics Offline",
+      "packageName": "com.masterkg.Jerusalema.gouss",
+      "icon": "https://play-lh.googleusercontent.com/yCaFzJIkbdBH_fs3xu531cP_vuxxgUvACjJI4zxINq9KXbRAQm_KeZOKrpPvd0fdq-Sb=w240-h480",
+      "download": "+10K"
+    },
+    {
+      "name": "Aya nakamura & Lyrics Offline",
+      "packageName": "com.ayanakmura.degaine.gouss",
+      "icon": "https://play-lh.googleusercontent.com/qc1HLMkYhnrBk8lJStfJ7g_yIugfJs1GyNCG-JOMk1iVPemjA6iJeBVLHd6d42ieLLQ=w240-h480",
+      "download": "+50k"
+    },
+    {
+      "name": "Amel Bent & Lyrics Offline",
+      "packageName": "com.amelbent.vivante.gouss",
+      "icon": "https://play-lh.googleusercontent.com/lGWDQeioDinsuT5pQpuAMcLgY8nCumUiEN_cnEsjiFlFMMf1cTzYrbMKDuVwtH9zAw=w240-h480",
+      "download": "+50k"
+    },
+    {
+      "name": "Music Karol G & Lyrics Offline",
+      "packageName": "com.miaboyka.mamama.gouss",
+      "icon": "https://play-lh.googleusercontent.com/aj0b-raTCYHyf2Iy7gfr0VYPsCWr4dRJmu-wrfG5RT1ukJ3zgadsL96ujx0pCbdNEZQ=w240-h480",
+      "download": "+100K"
+    },
+    {
+      "name": "Music Wejdene & Lyrics Offline",
+      "packageName": "com.wejdene.arrogante.gouss",
+      "icon": "https://play-lh.googleusercontent.com/WYHgIiL7lrmlRf5C55ZrtMpl49r0zyKGByMiwnBXc7XQ5x8mhpE3E0d3bwmX044tNIQ=w240-h480",
+      "download": "+10K"
+    },
+    {
+      "name": "Marwa Laoud & Lyrics Offline",
+      "packageName": "com.loud.marwa.gouss",
+      "icon": "https://play-lh.googleusercontent.com/pIcm0SJamvcM1Ml93Z5j1PUSJ_eUVdRdmMjM-TWk5h5PlbXbslX3S5E3gGd1-qbbgRZ_=w240-h480",
+      "download": "+10K"
+    },
+    {
+      "name": "Music Imen Es & Lyrics Offline",
+      "packageName": "com.imenes.essaieencore.gouss",
+      "icon": "https://play-lh.googleusercontent.com/LcpG_n9rLFukhB-Wapu6nTODvADdnLSifYpAfzYwnrxsxQcHfadLkbXl1Okqm-XEesA=w240-h480",
+      "download": "+10K"
+    },
+    {
+      "name": "Xxxtentation & lyrics offline",
+      "packageName": "com.khabib.zara.gouss",
+      "icon": "https://play-lh.googleusercontent.com/mlYA880v2pKLRtVJXMCZwPlN7VGT3d2jycLm6fBxVTEMJ7C-xpUiyBAkrvuS5dfAV1s=w240-h480",
+      "download": "+100K"
+    },
+    {
+      "name": "Music Ninho & lyrics Offline",
+      "packageName": "com.ninho.jeunelossa.gouss",
+      "icon": "https://play-lh.googleusercontent.com/c_hKgraEr-sq_hu_UUtCMAqs3-yr0en7nKDYdCa8uj0lfaW-KE6EjNzEKoTcFpYFIfn9=w240-h480",
+      "download": "+100K"
+    },
+    {
+      "name": "Music Soprano & Lyrics Offline",
+      "packageName": "com.soprano.paranoia.gouss",
+      "icon": "https://play-lh.googleusercontent.com/NaSDE9z99k8eLM5J8EkXpjQ9Jx1ILH0sN2G_qxrU2ShuVxmF1CAn6vij3F7FRaGDj-o=w240-h480",
+      "download": "+50k"
+    },
+    {
+      "name": "Music 13 Organisé & Lyrics",
+      "packageName": "com.treize.organise.gouss",
+      "icon": "https://play-lh.googleusercontent.com/w9dr8jxQuxwBck__2Re4UKt2FdaDiCSGl2u7djF3q79MYyDU8rcpHZZIdNDZF8Pi-Vs=w240-h480",
+      "download": "+50k"
+    },
+    {
+      "name": "Music NAZA & Lyrics Offline",
+      "packageName": "com.naza.agogo.gouss",
+      "icon": "https://play-lh.googleusercontent.com/2E9ZrEH95lC2OiovLxfeAMHsgCDijjgC5BNoaOAXiJzhWMQEn_8JUBsRJ-brAQHXqWU=w240-h480",
+      "download": "+50k"
+    },
+    {
+      "name": "Music Dadju & Lyrics Offline",
+      "packageName": "com.dadju.ambassadeur.gouss",
+      "icon": "https://play-lh.googleusercontent.com/LRy5T86k-fIZ66wtztbSxWtwJomN4S8YXqjCuAMP4wtai2jLtkcOPCf4TUqaQNAPykU=w240-h480",
+      "download": "+100K"
+    },
+    {
+      "name": "Music RK & Lyrics Offline",
+      "packageName": "com.rk.sachet.gouss",
+      "icon": "https://play-lh.googleusercontent.com/wzEhNEz_Ie-OOMrUDMrhpCYACyJwX0IcApyvp7_ptriylB0E8rhzPu-1xkFy68Jw99Q=w240-h480",
+      "download": "+10K"
+    },
+    {
+      "name": "Fally Ipupa & Lyrics Offline",
+      "packageName": "com.fally.ipuppa.gouss",
+      "icon": "https://play-lh.googleusercontent.com/Ic_RiNNUCbAnm935MZx_zTpzjfonypZaIegPmL8B9jv1FyLeZ7hBUcpT8p3ctf5kiRs=w240-h480",
+      "download": "+50K"
+    },
+    {
+      "name": "Music Mlindo & Lyrics Offline",
+      "packageName": "com.thevoca.listmlindo.gouss",
+      "icon": "https://play-lh.googleusercontent.com/n5Pb9-NmHGRWf0Rmlvt8TMGuVDjGtgc-lHBFvsXF5-Go1C85M7XSVOe6TYgB5flaPDI=w240-h480",
+      "download": "+50K"
+    },
+    {
+      "name": "Kendji Girac & Lyrics Offline",
+      "packageName": "com.kendjigirac.Conquistador.gouss",
+      "icon": "https://play-lh.googleusercontent.com/CvgI9Soc6cinM6bKsw1sqZuiwhtUXOYZE2dzeBVIo9CsSwdXr0ComW412BAUtiCdKQ=w240-h480",
+      "download": "+10K"
+    },
+    {
+      "name": "Koba Lad & Lyrics Offline",
+      "packageName": "com.koba.ladhiro.gouss",
+      "icon": "https://play-lh.googleusercontent.com/KVRHajyQ9ODhxfGdfs1j7fzKA5kYsp86mooazQPWVpc4cM5SiKYRrgpRrmB9UUVjf2ej=w240-h480",
+      "download": "+50K"
+    },
+    {
+      "name": "Music Tayc & Lyrics Offline",
+      "packageName": "com.letemps.tayc.gouss",
+      "icon": "https://play-lh.googleusercontent.com/SeZ5OM4kP5gGgUBilSoTmb1Dbu7rpRfCCKS1I0lRWT70l7P_fR9wgatdduuExo0XFg=w240-h480",
+      "download": "+10K"
+    },
+    {
+      "name": "Music Hatik & Lyrics Offline",
+      "packageName": "com.hatik.eternel.gouss",
+      "icon": "https://play-lh.googleusercontent.com/eojTmbrpZiidPyWDjt3VkEs7gJGRcU4Wf2lvYUpfVJphEicOYO2Mv8otlB2cOyZZkuvP=w240-h480",
+      "download": "+10K"
+    }
+  ]
+  
+}
