@@ -20,14 +20,14 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 5,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "",
-        "AdMobInterstitial"   : "",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobBanner"         : "ca-app-pub-3147524971917133/2728893393",
+        "AdMobInterstitial"   : "ca-app-pub-3147524971917133/4311236670",
+        "AdMobNative"         : "ca-app-pub-3147524971917133/6680918560",
+        "AdMobOpenAd"         : "ca-app-pub-3147524971917133/4047674499",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
@@ -91,6 +91,18 @@
       "packageName": "com.masterkg.Jerusalema.gouss",
       "icon": "https://play-lh.googleusercontent.com/yCaFzJIkbdBH_fs3xu531cP_vuxxgUvACjJI4zxINq9KXbRAQm_KeZOKrpPvd0fdq-Sb=w240-h480",
       "download": "+10K"
+    },
+    {
+      "name": "Music Rihanna & Lyrics Offline",
+      "packageName": "com.avamax.themotto.gouss",
+      "icon": "https://play-lh.googleusercontent.com/oeFYm7t9Oi-VCBu9KQtQdtvWVKzD_fo7vhgwQFyqteVddNOwbS-MBMe5_T6aZ2dybIg=w240-h480",
+      "download": "+50k"
+    },
+    {
+      "name": "Music Shakira & Lyrics Offline",
+      "packageName": "com.enesbatur.dolunay.gouss",
+      "icon": "https://play-lh.googleusercontent.com/OjaZnrKFOJF4ok9_aRQJ19Z79D8UoV_LW_54_sWsaqzzgrNagLwH3GWkX1W-09WOIds=w240-h480",
+      "download": "+50k"
     },
     {
       "name": "Aya nakamura & Lyrics Offline",
