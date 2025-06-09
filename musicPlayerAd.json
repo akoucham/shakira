@@ -20,7 +20,7 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 5,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
@@ -134,6 +134,12 @@
       "icon": "https://play-lh.googleusercontent.com/pIcm0SJamvcM1Ml93Z5j1PUSJ_eUVdRdmMjM-TWk5h5PlbXbslX3S5E3gGd1-qbbgRZ_=w240-h480",
       "download": "+10K"
     },
+      {
+      "name": "Eva Queen & Lyrics Offline",
+      "packageName": "com.eva.oxegene.gouss",
+      "icon": "https://play-lh.googleusercontent.com/nzkfo9Xg3mJwPNIVbK1_EJfJKBt_JNY0peFlO1xWxS0CilIPVgvJX5HPknBi6JGh3Q=w240-h480",
+      "download": "+10K"
+    },
     {
       "name": "Music Imen Es & Lyrics Offline",
       "packageName": "com.imenes.essaieencore.gouss",
@@ -193,6 +199,18 @@
       "packageName": "com.thevoca.listmlindo.gouss",
       "icon": "https://play-lh.googleusercontent.com/n5Pb9-NmHGRWf0Rmlvt8TMGuVDjGtgc-lHBFvsXF5-Go1C85M7XSVOe6TYgB5flaPDI=w240-h480",
       "download": "+50K"
+    },
+	{
+      "name": "Mark Forster & Lyrics Offline",
+      "packageName": "com.markfos.terchone.gouss",
+      "icon": "https://play-lh.googleusercontent.com/gmO21JGyfcKMpdoRfnTXpQiZ0A8wzK0OBYK3spRLk5KmU0hR0bmofHyhgnrpk8BGELg=w240-h480",
+      "download": "+10K"
+    },
+	{
+      "name": "Leo Rojas & Lyrics Offline",
+      "packageName": "com.leorojas.amigos.gouss",
+      "icon": "https://play-lh.googleusercontent.com/0zgn1dxydvPhrOCdLNcyfYxliELcB2B3UFCQlMExKGIQihoH3vfg1HKN6gvTpYojKw=w240-h480",
+      "download": "+10K"
     },
     {
       "name": "Kendji Girac & Lyrics Offline",
