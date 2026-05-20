@@ -18,9 +18,9 @@
       
       "OpenAdNetwork"      : "admob",
       
-      "AdInterval"         : 1,
+      "AdInterval"         : 5,
       
-      "NativeAdRow"        : 10,
+      "NativeAdRow"        : 15,
 
       "AdPlacement": {
         
